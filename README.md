@@ -1,2 +1,3 @@
 # website
-training website, for training, old style
+Training website, for training, old style.
+Blog with static pages and Unique URL.
